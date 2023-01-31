@@ -1,0 +1,39 @@
+{
+    "Empolyee": [
+        {
+            "Name": "ashish meshram",
+            "DOB": "26 march 1998",
+            "Height": "5.2",
+            "City": "nagpur",
+            "State": "maharashtra"
+        },
+        {
+            "Name": "amit kumar",
+            "DOB": "16 feb 1988",
+            "Height": "4.8",
+            "City": "mumbai",
+            "State": "maharashtra"
+        },
+        {
+            "Name": "ajay shinde",
+            "DOB": "12 feb 1996",
+            "Height": "5.1",
+            "City": "pune",
+            "State": "maharashtra"
+        },
+        {
+            "Name": "ravi pande",
+            "DOB": "19 jun 1998",
+            "Height": "5.4",
+            "City": "jammu",
+            "State": "Jammu and Kashmir"
+        },
+        {
+            "Name": "aman sing",
+            "DOB": "22 feb 1995",
+            "Height": "5.2",
+            "City": "amritsar",
+            "State": "punjab"
+        }
+    ]
+}
